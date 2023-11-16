@@ -1,0 +1,12 @@
+.channel-content{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.channel-image{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
